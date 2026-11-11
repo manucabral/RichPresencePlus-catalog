@@ -1,0 +1,50 @@
+{
+  "generated_at": 1794407977,
+  "stable": [
+    {
+      "folder": "youtube",
+      "installs": 5
+    },
+    {
+      "folder": "youtube-music",
+      "installs": 3
+    },
+    {
+      "folder": "desktop-media",
+      "installs": 2
+    },
+    {
+      "folder": "ready-or-not",
+      "installs": 2
+    },
+    {
+      "folder": "roblox",
+      "installs": 2
+    },
+    {
+      "folder": "sa-mp",
+      "installs": 2
+    },
+    {
+      "folder": "web-media",
+      "installs": 2
+    },
+    {
+      "folder": "creator-tools",
+      "installs": 1
+    },
+    {
+      "folder": "dailymotion",
+      "installs": 1
+    },
+    {
+      "folder": "nepu",
+      "installs": 1
+    },
+    {
+      "folder": "netflix",
+      "installs": 1
+    }
+  ],
+  "experimental": []
+}
