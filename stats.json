@@ -1,49 +1,49 @@
 {
-  "generated_at": 1794407977,
+  "generated_at": 1794496313,
   "stable": [
     {
       "folder": "youtube",
-      "installs": 5
-    },
-    {
-      "folder": "youtube-music",
-      "installs": 3
+      "installs": 8
     },
     {
       "folder": "desktop-media",
-      "installs": 2
-    },
-    {
-      "folder": "ready-or-not",
-      "installs": 2
-    },
-    {
-      "folder": "roblox",
-      "installs": 2
-    },
-    {
-      "folder": "sa-mp",
-      "installs": 2
+      "installs": 7
     },
     {
       "folder": "web-media",
-      "installs": 2
+      "installs": 6
     },
     {
-      "folder": "creator-tools",
-      "installs": 1
+      "folder": "youtube-music",
+      "installs": 6
     },
     {
       "folder": "dailymotion",
-      "installs": 1
+      "installs": 5
+    },
+    {
+      "folder": "creator-tools",
+      "installs": 4
+    },
+    {
+      "folder": "ready-or-not",
+      "installs": 4
+    },
+    {
+      "folder": "roblox",
+      "installs": 4
     },
     {
       "folder": "nepu",
-      "installs": 1
+      "installs": 3
     },
     {
       "folder": "netflix",
-      "installs": 1
+      "installs": 3
+    },
+    {
+      "folder": "sa-mp",
+      "installs": 3
     }
   ],
   "experimental": []
